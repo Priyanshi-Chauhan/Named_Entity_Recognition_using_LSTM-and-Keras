@@ -3,6 +3,8 @@ In this project, I have focussed on two learning objectives:
 
 1) Build and train a bi-directional LSTM with Keras
 2) Solve the Named Entity Recognition (NER) problem with LSTMs
+
+
 Task 1: Project Overview and Import Modules
 Import essential modules and helper functions from NumPy, Matplotlib, and Keras.
 Task 2: Load and Explore the NER Dataset
